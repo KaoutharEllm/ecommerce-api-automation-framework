@@ -1,2 +1,4 @@
-package tests;public class CartTests {
+package tests;
+
+public class CartTests {
 }
